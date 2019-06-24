@@ -6,4 +6,5 @@ git clone git@github.com:cacreason/reactProjectTemplate.git;
 npm install;
 ```
 Do not forget to update git config to reflect current project repo.
+
 Once Installed, node server uses Express to listen on the localhost address at port 8080.
