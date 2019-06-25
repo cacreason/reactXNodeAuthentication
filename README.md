@@ -1,8 +1,8 @@
-# React X Node Project Template
-This is a template file structure for a React app hosted by a Node server.
+# User Authentication Utilizing React Express Mongo Node
+This is a user authentication template that utilizes React with a Node / MongoDB backend.
 Clone using:
 ```
-git clone git@github.com:cacreason/reactProjectTemplate.git;
+git clone git@github.com:cacreason/reactXNodeAuthentication.git;
 npm install;
 ```
 Do not forget to update git config to reflect current project repo.
